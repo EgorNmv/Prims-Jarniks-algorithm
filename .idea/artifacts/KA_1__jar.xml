@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KA_1_ЯрПрДе:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KA_1__jar</output-path>
+    <root id="archive" name="KA_1_dott.jar">
+      <element id="module-output" name="KA_1_dott" />
+    </root>
+  </artifact>
+</component>
